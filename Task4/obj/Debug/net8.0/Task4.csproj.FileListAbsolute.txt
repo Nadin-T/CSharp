@@ -1,0 +1,15 @@
+D:\Данные по программированию\C#\Lesson1\Task4\bin\Debug\net8.0\Task4.exe
+D:\Данные по программированию\C#\Lesson1\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\Данные по программированию\C#\Lesson1\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\Данные по программированию\C#\Lesson1\Task4\bin\Debug\net8.0\Task4.dll
+D:\Данные по программированию\C#\Lesson1\Task4\bin\Debug\net8.0\Task4.pdb
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.sourcelink.json
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.dll
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.pdb
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\Данные по программированию\C#\Lesson1\Task4\obj\Debug\net8.0\ref\Task4.dll
